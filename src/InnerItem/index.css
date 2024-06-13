@@ -1,0 +1,7 @@
+.destination-item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-between
+}

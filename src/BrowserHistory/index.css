@@ -1,0 +1,19 @@
+.search-input {
+  width: 200px;
+  height: 30px;
+}
+.image {
+  height: 30px;
+  width: 30px;
+}
+.input-container {
+  background-color: blue;
+  width: 200px;
+  height: 30px;
+}
+.lowerPart {
+  justify-content: space-between;
+}
+.upperPart {
+  background-color: blue;
+}
